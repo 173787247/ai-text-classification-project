@@ -1,0 +1,2 @@
+torch>=2.0.0sentence-transformers>=2.2.0scikit-learn>=1.3.0pandas>=1.5.0
+umpy>=1.24.0matplotlib>=3.6.0seaborn>=0.12.0jupyter>=1.0.0
